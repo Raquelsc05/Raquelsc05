@@ -1,6 +1,6 @@
 ![3000](https://user-images.githubusercontent.com/105187443/175128559-a0587865-caa0-41c6-aecf-240460bb32f1.png)
  # Hi! I’m Raquel Costa.
-👩‍💻 💻<h2> Front-end Web with Reactjs, Angular, React Native and more...</h2>
+👩‍💻 💻<h2> Front-end Web with Reactjs, Angular and more...</h2>
  
   ### I'm a developer front-end , motivated to everyday learn more. 
   ### I am determined, focused and used to working in team.
