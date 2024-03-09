@@ -5,7 +5,7 @@
   ### I'm a developer front-end , motivated to everyday learn more. 
   ### I am determined, focused and used to working in team.
  
- <img src="https://cdn-icons-png.flaticon.com/128/8036/8036495.png" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><h2> Skills - HTML / CSS / Javascript / SQL / ReactJS / NodeJS / GIT / GITHUB / TypeScript/ Angular / Cloud AWS / Linux
+ <img src="https://cdn-icons-png.flaticon.com/128/8036/8036495.png" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><h2> Skills - HTML5 / CSS3 / Javascript / SQL / ReactJS / NodeJS / GIT / GITHUB / TypeScript/ Angular / Cloud AWS / Linux / JAVA / JQuery / JSON / IA / API REST / VueJS
 
 
  <h3> I am from Rio de Janeiro, I love beach, travel and code.<h3>
